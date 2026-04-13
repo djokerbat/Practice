@@ -1,1 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html, body {
+  width: 100%;
+}
+html {
+  scroll-behavior: smooth;
+}
+.nav, .text {
+  padding-left: 100px;
+  padding-right: 100px;
+  
+}
+body{
+    margin: 0%;
+    font-family:"Inter", sans-serif;
+    color: #FFFFFF;
+   height: fit-content;
+}
 
+
+.nav{
+    display:flex;
+    height: fit-content;
+    gap:390px;
+    align-items: center;
+    padding-top: 40px;
+    background-color: #702C24;
+
+}
+
+nav {
+display: flex;
+gap: 180px;
+}
+
+
+h3 {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  color: #FFFFFF;
+
+}
+
+.container{
+    margin: 0px;
+    display: flex;
+    line-height: 44px;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+        
+}
+
+.can{
+    width: 300px;
+    height: auto;
+    margin-left: 200px;
+    position: relative;
+    z-index: 3;
+    
+}
+.circle1{
+position: absolute;
+  width: 500px;
+  height: 500px;
+  background: #AC5247;
+  border-radius: 50%;
+  filter: blur(100px);
+  top: 50%;
+  left: 60%;
+  transform: translate(0%, -50%);
+  z-index: 0;
+}
+
+h2{
+    size: 48px;
+    font-weight: 800px;
+    margin:0px;
+}
+.text{
+    margin:0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:40px;
+    margin-bottom: 80px;
+    z-index: 2;
+    
+}
+
+.text2{
+
+    width:500px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 100px;
+}
+.button{
+    color:#FFFFFF;
+    background-color: #347E0C;
+    padding-right:20px;
+    padding-left:20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 8px;
+    border-color: #347E0C;
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.group{
+position: absolute;
+left: 0vh;
+bottom: 0vh;
+width:400px;
+height: auto;
+}
+
+#coffee{
+    background-color: #702C24;
+}
+#veges{
+    background-color: #2C502A;
+}
+.circle2{
+position: absolute;
+  width: 500px;
+  height: 500px;
+  background: #F5FEEB;
+  border-radius: 50%;
+  filter: blur(300px);
+  top: 50%;
+  left: 60%;
+  transform: translate(0%, -50%);
+  z-index: 0;
+}
+
+#orange{
+    background-color: #DF5900;
+}
+
+.circle3{
+position: absolute;
+  width: 500px;
+  height: 500px;
+  background: #FEF8EB;
+  border-radius: 50%;
+  filter: blur(300px);
+  top: 50%;
+  left: 60%;
+  transform: translate(0%, -50%);
+  z-index: 0;
+}
