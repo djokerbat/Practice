@@ -17,7 +17,7 @@ This folder contains the design and the code of the project.
 ## 🎨 Design
 
 - **Figma Design**:
-- [Figma link]([https://www.figma.com/proto/cp58XmLoj1oKbk5uzMaXUA/studying?node-id=52-33&t=BK5kQsiTkZ1ZmGN4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A33&show-proto-sidebar=1])  
+[https://www.figma.com/proto/cp58XmLoj1oKbk5uzMaXUA/studying?node-id=52-33&t=BK5kQsiTkZ1ZmGN4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A33&show-proto-sidebar=1]  
 
 ## 🚀 Live Demo
 
