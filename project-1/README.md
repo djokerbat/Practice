@@ -16,12 +16,12 @@ This folder contains the design and the code of the project.
 
 ## 🎨 Design
 
-- **Figma Design**:
-[https://www.figma.com/proto/cp58XmLoj1oKbk5uzMaXUA/studying?node-id=52-33&t=BK5kQsiTkZ1ZmGN4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A33&show-proto-sidebar=1]  
+- **Design**:
+[Figma_link(https://www.figma.com/proto/cp58XmLoj1oKbk5uzMaXUA/studying?node-id=52-33&t=BK5kQsiTkZ1ZmGN4-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=52%3A33&show-proto-sidebar=1)  
 
 ## 🚀 Live Demo
 
-- GitHub Pages: [https://djokerbat.github.io/Practice/project-1/Frontend/index.html]
+- GitHub Pages: [live_demo](https://djokerbat.github.io/Practice/project-1/Frontend/index.html)
 
 💡 Features
 Clean UI design
