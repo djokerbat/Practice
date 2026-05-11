@@ -9,6 +9,7 @@ Then, I turn designs into code.👩‍💻
 ## 🛠️ Technologies Used
 - HTML
 - CSS
+- Javascript
 - Git & GitHub  
 - Visual Studio Code ✍️  
 - Figma 🎨
