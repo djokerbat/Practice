@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="description" content="programming a cool calculator using html,css,javascript">
+    <meta name="author" content="Fatma">
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.webmanifest">
+   <link rel="apple-touch-icon" href="icon.png">
+    <meta name="mobile-web-app-capable" content="yes">
+    <title>Cool calculator</title>
+</head>
+
+<body>
+   <div id="container">
+    <div id="screen">
+     
+    </div>
+
+    <div id="keypad">
+
+    <button class="pbtn" onclick="add('7')">7</button>
+    <button class="pbtn" onclick="add('8')">8</button>
+    <button class="pbtn" onclick="add('9')">9</button>
+    <button class="bbtn" onclick="add('/')">÷</button>
+
+    <button class="pbtn" onclick="add('4')">4</button>
+    <button class="pbtn" onclick="add('5')">5</button>
+    <button class="pbtn" onclick="add('6')">6</button>
+    <button class="bbtn" onclick="add('*')">x</button>
+
+    <button class="pbtn" onclick="add('1')">1</button>
+    <button class="pbtn" onclick="add('2')">2</button>
+    <button class="pbtn" onclick="add('3')">3</button>
+    <button class="bbtn" onclick="add('-')">-</button>
+
+    <button class="pbtn" onclick="add('0')">0</button>
+    <button class="del" onclick="del()">Del</button>
+    <button class="equal" onclick="result()">=</button>
+    <button class="bbtn" onclick="add('+')">+</button>
+
+    </div>
+   </div> 
+
+
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js");
+}
+</script>
+<script src="script.js"></script>
+</body>
+</html>
