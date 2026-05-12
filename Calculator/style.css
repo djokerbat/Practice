@@ -7,6 +7,7 @@ body{
     overflow: hidden;
     display: flex;
     justify-content: center;
+    background-color: #121034;
 }
 
 #container{
@@ -26,6 +27,7 @@ position:absolute;
 display: flex;
 flex-direction: column;
 align-items: center;
+box-shadow: 0 0 15px #000000;
 }
 
 
