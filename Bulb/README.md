@@ -16,10 +16,10 @@ Search for the bulb buttons and turn the bulb on.
 
 ## 🎨 Figma  
 
-[View Design](YOUR_FIGMA_LINK)  
+[View Design](https://www.figma.com/proto/cp58XmLoj1oKbk5uzMaXUA/studying?node-id=225-53&t=bmOG3f29POnv8K1Q-0&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=225%3A53&show-proto-sidebar=1)  
 
 ## 🚀 Live Demo  
 
-[live demo](YOUR_DEMO_LINK)  
+[live demo](https://djokerbat.github.io/Practice/Bulb/index.html)  
 
 
