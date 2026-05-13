@@ -22,7 +22,19 @@ Somewhere along the way, things got slightly chaotic and turned into this random
 
 ## 🚀 Live Demo
 
-[Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)  
-  
+[Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)
+
+---
+
 Search for the bulb buttons and turn the light on.
+
+This project is best viewed on a laptop or desktop (in the light mode)💻
+On mobile, enable **Desktop View** in your browser for the best experience.
+
+---
+
+⚠️ Note
+
+The layout is still a bit chaotic on some screens 😭
+Still working on it 💡
 
