@@ -10,8 +10,6 @@ Somewhere along the way, things got slightly chaotic and turned into this random
 
 ---
 
-Search for the bulb buttons and turn the light on.
-
 ## 🛠️ Built With
 
 <p align="left">
@@ -24,6 +22,6 @@ Search for the bulb buttons and turn the light on.
 
 ## 🚀 Live Demo
 
-[Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)
-
+[Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)  
+Search for the bulb buttons and turn the light on.
 
