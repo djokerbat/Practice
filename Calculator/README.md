@@ -19,7 +19,7 @@ It actually works (most of the time)
 
 ## 🚀 Live Demo
 
-[Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)
+[Live Demo](https://djokerbat.github.io/Practice/Calculator/index.html)
 
 
 
