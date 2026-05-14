@@ -8,7 +8,7 @@ Somewhere along the way, things got slightly chaotic and turned into this random
 
 ✨ Made at questionable hours with random thoughts and no supervision ✨
 
-<br><br><br>
+<br>
 
 ## 🛠️ Built With
 
@@ -16,20 +16,20 @@ Somewhere along the way, things got slightly chaotic and turned into this random
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma" />
 </p>
 
-<br><br><br>
+<br><br>
 
 ## 🚀 Live Demo
 
 [Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)
 
-<br><br><br>
+<br><br>
 
 Search for the bulb buttons and turn the light on.
 
 This project is best viewed on a laptop or desktop (in the light mode)💻
 On mobile, enable **Desktop View** in your browser for the best experience.
 
-<br><br>
+<br>
 
 ⚠️ Note
 
