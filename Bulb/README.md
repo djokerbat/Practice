@@ -16,13 +16,13 @@ Somewhere along the way, things got slightly chaotic and turned into this random
   <img src="https://skillicons.dev/icons?i=html,css,js,vscode,figma" />
 </p>
 
-<br><br>
+<br>
 
 ## 🚀 Live Demo
 
 [Live Demo](https://djokerbat.github.io/Practice/Bulb/index.html)
 
-<br><br>
+<br>
 
 Search for the bulb buttons and turn the light on.
 
